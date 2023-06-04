@@ -44,7 +44,7 @@
 ---
 
 ## 示意圖:
-<img src="https://drive.google.com/uc?id=13U92TtpZl_x1GFvh-QNMNjW1sujSNHb5" height="60%" width="60%"/>
+<img src="https://drive.google.com/uc?id=13U92TtpZl_x1GFvh-QNMNjW1sujSNHb5" height="100%" width="100%"/>
 
 > 圖片來源：[iThome鐵人賽(Frank) - 演算法 快速排序法 Quick Sort](https://ithelp.ithome.com.tw/articles/10278644)
 
