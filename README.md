@@ -1,10 +1,6 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Basic Quick Sort 基本快速排序
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
-```diff
-- ***編寫中，暫時上傳***
-```
-
 ---
 
 <!--ts-->
@@ -48,14 +44,14 @@
 ---
 
 ## 示意圖:
-<img src="https://drive.google.com/uc?id=1XYNU6b5xaAq1h6-F1ryeoQ_BFl-_rwLcc" height="60%" width="60%"/>
+<img src="https://drive.google.com/uc?id=13U92TtpZl_x1GFvh-QNMNjW1sujSNHb5" height="60%" width="60%"/>
 
 > 圖片來源：[iThome鐵人賽(Frank) - 演算法 快速排序法 Quick Sort](https://ithelp.ithome.com.tw/articles/10278644)
 
 ---
 
 ## 實作範例:
-- [Example](https://github.com/RC-Dev-Tech/algorithm-quick-sort/blob/main/C%2B%2B/main.cpp) - Quick Sort (C++)
+- [Example](https://github.com/RC-Dev-Tech/algorithm-basic-quick-sort/blob/main/C%2B%2B/main.cpp) - Basic Quick Sort (C++)
 
 ---
 
