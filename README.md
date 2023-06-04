@@ -1,7 +1,9 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Basic Quick Sort 基本快速排序
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
-***編寫中，暫時上傳***
+```diff
+- ***編寫中，暫時上傳***
+```
 
 ---
 
