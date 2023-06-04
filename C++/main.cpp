@@ -19,7 +19,7 @@ int partition(int arr[], int low, int high) {
 }
 
 // 快速排序的遞迴函數.
-void basic_quick_sort(int arr[], int low, int high) {
+void quickSort(int arr[], int low, int high) {
     if (low < high) {
         int pivotIndex = partition(arr, low, high); // 獲取基準元素的位置.
 
@@ -41,7 +41,7 @@ int main() {
     std::cout << std::endl;
 
     // 基本快速排序.
-    basic_quick_sort(arr, 0, size - 1);
+    quickSort(arr, 0, size - 1);
 
     // 排序後數列.
     std::cout << "original sequence: ";
