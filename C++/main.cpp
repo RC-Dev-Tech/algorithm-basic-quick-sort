@@ -33,7 +33,7 @@ int main() {
     int arr[] = {50, 90, 70, 20, 10, 30, 40, 60, 80};
     int size = sizeof(arr) / sizeof(arr[0]);
 
-    //原始數列.
+    // 原始數列.
     std::cout << "original sequence: ";
     for (int i = 0; i < size; ++i) {
         std::cout << arr[i] << " ";
